@@ -1,0 +1,116 @@
+Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
+#HMN1,Find a triplet that sums to a given value,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN2,Boolean Matrix,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN3,Maximum subset XOR,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN4,Number of subsets with product less than k,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN5,"Given a number, find the next smallest palindrome",Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN6,Arrange given numbers to form the biggest number,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN7,Nuts & Bolts Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN8,Maximize elements using another array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN9,Capacity To Ship Packages Within D Days,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN10,Longest Arithmetic Progression,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN11,Construct a List using the given Q XOR queries,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN12,Find the row with the maximum number of 1s,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN13,Find top k (or most frequent) numbers in a stream,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN14,Find duplicates in O(n) time and O(1) extra space,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN15,"Given a string, print all possible palindromic partitions",Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN16,Find all distinct palindromic sub-strings of a given string,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN17,Longest substring whose characters can be rearranged to form a Palindrome,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN18,How to design a tiny URL or URL shortener?,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN19,Longest repeating and non-overlapping substring,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN20,Length of the longest valid substring,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN21,Find a pair with the given difference,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN22,Find the Largest number with a given number of digits and the sum of digits,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN23,Find Excel column name from a given column number,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN24,Count words that appear exactly two times in an array of words,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN25,Convert a given Binary Tree to a Doubly Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN26,Clone a linked list with the next and random pointer,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN27,Rearrange a given linked list in-place,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN28,Flatten a binary tree into a linked list,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN29,Reverse a sublist of the linked list,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN30,Extract Leaves of a Binary Tree in a Doubly Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN31,QuickSort on Singly Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN32,Insertion Sort for Singly Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN33,Remove all occurrences of duplicates from a sorted Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN34,Detect and Remove Loop in a Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN35,Intersection Point in Y-Shaped Linked Lists,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN36,Find a maximum or minimum for every window size in a given array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN37,Length of the longest valid substring,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN38,Celebrity Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN39,Next Greater Element,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN40,Implement Stack using Queues,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN41,Stock Span Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN42,Maximum size rectangle binary sub-matrix with all 1s,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN43,Circular tour,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN44,Implement two stacks in an array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN45,Sort a stack using recursion,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN46,Allocate a minimum number of pages,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN47,Median of two sorted arrays of different sizes,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN48,painter’s partition problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN49,Minimum Number of Platforms Required for a Railway/Bus Station,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN50,The square root of an integer,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN51,Sort an array according to the order defined by another array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN52,Find the element that appears once,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN53,Find the farthest smaller number on the right side,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN54,Distribute N candies among K people,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN55,Two elements whose sum is closest to zero,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN56,Merge two sorted arrays with O(1) extra space,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN57,Find a triplet that sums to a given value,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN58,Minimum number of swaps required to sort an array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN59,QuickSort,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN60,The floor in a Sorted Array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN61,Chocolate Distribution Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN62,k largest(or smallest) elements in an array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN63,Sort an array according to the order defined by another array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN64,Overlapping Intervals,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN65,Minimum sprinklers required to be turned on to water the plants,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN66,Find four elements that sum to a given value,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN67,Find the first non-repeating character from a stream of characters,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN68,"Given a sequence of words, print all anagrams together",Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN69,Number of subarrays having a sum exactly equal to k,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN70,Count pairs with a given sum,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN71,Check if two strings are k-anagrams or not,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN72,Second most repeated word in a sequence,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN73,Heap Sort,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN74,Largest subarray with an equal number of 0s and 1s,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN75,Find a triplet in an array whose sum is closest to a given number,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN76,Convert a Binary Tree to a Circular Doubly Link List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN77,Lowest Common Ancestor in a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN78,A program to check if a binary tree is BST or not,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN79,Print level order traversal line by line,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN80,The maximum difference between a node and its ancestor in Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN81,Symmetric Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN82,Inorder to Successor in Binary Search Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN83,Print BST elements in a given range,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN84,Level Order Binary Tree Traversal,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN85,Convert a Binary Tree to a Circular Doubly Link List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN86,Convert a given Binary Tree to a Doubly Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN87,Burn the binary tree starting from the target node,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN88,AVL Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN89,Distribute candies in a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN90,Print a Binary Tree in Vertical Order,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN91,Strongly Connected Components (Kosaraju’s Algo),Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN92,Prerequisite Tasks,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN93,Distance from the Source (Bellman-Ford Algorithm),Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN94,Word Boggle – II,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN95,Check whether a given graph is Bipartite or not,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN96,Find the number of islands,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN97,Topological sort,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN98,Boggle (Find all possible words in a board of characters),Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN99,Program to cyclically rotate an array by one,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN100,Flood fill Algorithm – how to implement fill() in paint?,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN101,The shortest path to reach one prime to another by changing a single digit at a time,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN102,Count All Palindrome Sub-Strings in a String,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN103,Count ways to reach the n’th stair,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN104,Burst Balloon to maximize coins,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN105,Maximum size rectangle binary sub-matrix with all 1s,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN106,Maximum Sum Increasing Subsequence,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN107,Count the number of ways to cover a distance,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN108,Word Break Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN109,Knapsack with Duplicate Items,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN110,Coin Change,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN111,Subset Sum Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN112,Longest Increasing Subsequence,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN113,Find if a string is interleaved with two other strings,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN114,Minimum number of jumps to reach the end,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN115,Count Possible Decodings of a given Digit Sequence,Technical,DSA,N/A,GeeksforGeeks,Netflix

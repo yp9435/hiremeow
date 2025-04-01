@@ -1,0 +1,89 @@
+,Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
+0,N/A,DSA to Development,Technical,DSA,N/A,GeeksforGeeks,Google
+1,N/A,DSA to Development,Technical,DSA,N/A,GeeksforGeeks,Google
+2,N/A,Master Django Framework,Technical,DSA,N/A,GeeksforGeeks,Google
+3,N/A,Interview 101: DSA & System Design,Technical,DSA,N/A,GeeksforGeeks,Google
+4,N/A,Placement Preparation Course,Technical,DSA,N/A,GeeksforGeeks,Google
+5,N/A,Data Structures & Algorithms,Technical,DSA,N/A,GeeksforGeeks,Google
+6,N/A,Python Tutorial,Technical,DSA,N/A,GeeksforGeeks,Google
+7,N/A,System Design,Technical,DSA,N/A,GeeksforGeeks,Google
+8,N/A,Java,Technical,DSA,N/A,GeeksforGeeks,Google
+9,N/A,HTML,Technical,DSA,N/A,GeeksforGeeks,Google
+10,N/A,GATE Rank Predictor,Technical,DSA,N/A,GeeksforGeeks,Google
+11,N/A,Operating System,Technical,DSA,N/A,GeeksforGeeks,Google
+12,N/A,DevOps Tutorial,Technical,DSA,N/A,GeeksforGeeks,Google
+13,N/A,Get Hired: Apply for Jobs,Technical,DSA,N/A,GeeksforGeeks,Google
+14,N/A,Build your AI Agent,Technical,DSA,N/A,GeeksforGeeks,Google
+15,N/A,Accenture Hackathon,Technical,DSA,N/A,GeeksforGeeks,Google
+16,N/A,Guidelines to Write Experiences,Technical,DSA,N/A,GeeksforGeeks,Google
+17,N/A,Ending Soon: 90% Refund Offer,Technical,DSA,N/A,GeeksforGeeks,Google
+18,N/A,Practice Questions,Technical,DSA,N/A,GeeksforGeeks,Google
+19,N/A,Find all triplets with zero sum,Technical,DSA,N/A,GeeksforGeeks,Google
+20,N/A,Generate all binary strings from given pattern,Technical,DSA,N/A,GeeksforGeeks,Google
+21,N/A,"Count of strings that can be formed using a, b and c under given constraints",Technical,DSA,N/A,GeeksforGeeks,Google
+22,N/A,Find largest word in dictionary by deleting some characters of given string,Technical,DSA,N/A,GeeksforGeeks,Google
+23,N/A,Find subarray with given sum | Set 1 (Nonnegative Numbers),Technical,DSA,N/A,GeeksforGeeks,Google
+24,N/A,Find the longest substring with k unique characters in a given string,Technical,DSA,N/A,GeeksforGeeks,Google
+25,N/A,Find the two non-repeating elements in an array of repeating elements,Technical,DSA,N/A,GeeksforGeeks,Google
+26,N/A,Flood fill Algorithm – how to implement fill() in paint?,Technical,DSA,N/A,GeeksforGeeks,Google
+27,N/A,Meta Strings (Check if two strings can become same after a swap in one string),Technical,DSA,N/A,GeeksforGeeks,Google
+28,N/A,Print all Jumping Numbers smaller than or equal to a given value,Technical,DSA,N/A,GeeksforGeeks,Google
+29,N/A,Sum of all the numbers that are formed from root to leaf paths,Technical,DSA,N/A,GeeksforGeeks,Google
+30,N/A,The Celebrity Problem,Technical,DSA,N/A,GeeksforGeeks,Google
+31,N/A,Unbounded Knapsack (Repetition of items allowed),Technical,DSA,N/A,GeeksforGeeks,Google
+32,N/A,Backtracking | Set 7 (Sudoku),Technical,DSA,N/A,GeeksforGeeks,Google
+33,N/A,Boggle | Set 2 (Using Trie),Technical,DSA,N/A,GeeksforGeeks,Google
+34,N/A,Check if a Binary Tree contains duplicate subtrees of size 2 or more,Technical,DSA,N/A,GeeksforGeeks,Google
+35,N/A,Dynamic Programming | Set 33 (Find if a string is interleaved of two other stri,Technical,DSA,N/A,GeeksforGeeks,Google
+36,N/A,Connect nodes at same level,Technical,DSA,N/A,GeeksforGeeks,Google
+37,N/A,Count BST nodes that lie in a given range,Technical,DSA,N/A,GeeksforGeeks,Google
+38,N/A,Dynamic Programming | Set 11 (Egg Dropping Puzzle),Technical,DSA,N/A,GeeksforGeeks,Google
+39,N/A,Dynamic Programming | Set 28 (Minimum insertions to form a palindrome),Technical,DSA,N/A,GeeksforGeeks,Google
+40,N/A,Dynamic Programming | Set 31 (Optimal Strategy for a Game),Technical,DSA,N/A,GeeksforGeeks,Google
+41,N/A,Dynamic Programming | Set 32 (Word Break Problem),Technical,DSA,N/A,GeeksforGeeks,Google
+42,N/A,Find four elements that sum to a given value | Set 2 ( O(n^2Logn) Solution),Technical,DSA,N/A,GeeksforGeeks,Google
+43,N/A,"Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’",Technical,DSA,N/A,GeeksforGeeks,Google
+44,N/A,How to print maximum number of A’s using given four keys,Technical,DSA,N/A,GeeksforGeeks,Google
+45,N/A,Inplace rotate square matrix by 90 degrees | Set 1,Technical,DSA,N/A,GeeksforGeeks,Google
+46,N/A,Maximum absolute difference between sum of two contiguous sub-arrays,Technical,DSA,N/A,GeeksforGeeks,Google
+47,N/A,Merge two BSTs with limited extra space,Technical,DSA,N/A,GeeksforGeeks,Google
+48,N/A,Merge Overlapping Intervals,Technical,DSA,N/A,GeeksforGeeks,Google
+49,N/A,Modular Exponentiation (Power in Modular Arithmetic),Technical,DSA,N/A,GeeksforGeeks,Google
+50,N/A,Paper Cut into Minimum Number of Squares | Set 2,Technical,DSA,N/A,GeeksforGeeks,Google
+51,N/A,Sum of bit differences among all pairs,Technical,DSA,N/A,GeeksforGeeks,Google
+52,N/A,Allocate minimum number of pages,Technical,DSA,N/A,GeeksforGeeks,Google
+53,N/A,"Given an array arr[], find the maximum j – i such that arr[j] > arr[i]",Technical,DSA,N/A,GeeksforGeeks,Google
+54,N/A,"Given a sorted dictionary of an alien language, find order of characters",Technical,DSA,N/A,GeeksforGeeks,Google
+55,N/A,Hungarian Algorithm for Assignment Problem | Set 1 (Introduction),Technical,DSA,N/A,GeeksforGeeks,Google
+56,N/A,Implement LRU Cache,Technical,DSA,N/A,GeeksforGeeks,Google
+57,N/A,Length of the longest valid substring,Technical,DSA,N/A,GeeksforGeeks,Google
+58,N/A,Median in a stream of integers (running integers),Technical,DSA,N/A,GeeksforGeeks,Google
+59,N/A,Sum of bit differences among all pairs,Technical,DSA,N/A,GeeksforGeeks,Google
+60,N/A,Travelling Salesman Problem | Set 1 (Naive and Dynamic Programming),Technical,DSA,N/A,GeeksforGeeks,Google
+61,N/A,Word Break Problem using Backtracking,Technical,DSA,N/A,GeeksforGeeks,Google
+62,N/A,Experiences,Technical,DSA,N/A,GeeksforGeeks,Google
+63,N/A,Google,Technical,DSA,N/A,GeeksforGeeks,Google
+64,N/A,About Us,Technical,DSA,N/A,GeeksforGeeks,Google
+65,N/A,Job-A-Thon Hiring Challenge,Technical,DSA,N/A,GeeksforGeeks,Google
+66,N/A,Languages,Technical,DSA,N/A,GeeksforGeeks,Google
+67,N/A,DSA,Technical,DSA,N/A,GeeksforGeeks,Google
+68,N/A,Data Science & ML,Technical,DSA,N/A,GeeksforGeeks,Google
+69,N/A,Web Technologies,Technical,DSA,N/A,GeeksforGeeks,Google
+70,N/A,Python Tutorial,Technical,DSA,N/A,GeeksforGeeks,Google
+71,N/A,Computer Science,Technical,DSA,N/A,GeeksforGeeks,Google
+72,N/A,DevOps,Technical,DSA,N/A,GeeksforGeeks,Google
+73,N/A,System Design,Technical,DSA,N/A,GeeksforGeeks,Google
+74,N/A,Mathematics,Technical,DSA,N/A,GeeksforGeeks,Google
+75,N/A,Software and Tools,Technical,DSA,N/A,GeeksforGeeks,Google
+76,N/A,Databases,Technical,DSA,N/A,GeeksforGeeks,Google
+77,N/A,Preparation Corner,Technical,DSA,N/A,GeeksforGeeks,Google
+78,N/A,JEE Advanced,Technical,DSA,N/A,GeeksforGeeks,Google
+79,N/A,More Tutorials,Technical,DSA,N/A,GeeksforGeeks,Google
+80,N/A,Typing Test,Technical,DSA,N/A,GeeksforGeeks,Google
+81,N/A,Write an Article,Technical,DSA,N/A,GeeksforGeeks,Google
+82,N/A,DSA/Placements,Technical,DSA,N/A,GeeksforGeeks,Google
+83,N/A,Development/Testing,Technical,DSA,N/A,GeeksforGeeks,Google
+84,N/A,Machine Learning/Data Science,Technical,DSA,N/A,GeeksforGeeks,Google
+85,N/A,Programming Languages,Technical,DSA,N/A,GeeksforGeeks,Google
+86,N/A,Clouds/Devops,Technical,DSA,N/A,GeeksforGeeks,Google
+87,N/A,GATE 2026,Technical,DSA,N/A,GeeksforGeeks,Google
