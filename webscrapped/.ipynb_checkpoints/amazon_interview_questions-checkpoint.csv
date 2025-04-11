@@ -1,0 +1,16 @@
+Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
+#HMA1,Amazon,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA2,K largest elements from a big file or array,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA3,"Find a triplet a, b, c such that a2 = b2 + c2",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA4,tree traversal questions,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA5,Convert a Binary tree to DLL,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA6,Lowest Common ancestor in a Binary Search Tree and Binary Tree.,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA7,"Implement a stack with push(), pop() and min() in O(1) time.",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA8,Reverse a linked list in groups of size k,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA9,"Given two numbers represented by two linked lists, write a function that returns sum list",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA10,9. Rotate a matrix by 90 degree.,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA11,Stock span problem,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA12,Next greater element,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA13,"system design questions,",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA14,Take the Three 90 Challenge today.,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMA15,Start the challenge right away!,Technical,DSA,N/A,GeeksforGeeks,Google

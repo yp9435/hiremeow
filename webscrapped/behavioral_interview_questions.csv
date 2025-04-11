@@ -1,0 +1,40 @@
+Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
+#BHQ1,How do you handle a challenge? Tell me about a situation where you faced a challenge.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ2,"Can you work effectively under pressure? If yes, how?",Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ3,When was the last time you made a mistake and how did you handle it?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ4,How do you set goals? Give an example.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ5,Tell me a decision that other team members or colleagues didn’t like. How did you implement it?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ6,Are you someone who works in a team or like solo working? Give an example of how you worked on a team.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ7,What do you do when your opinions collide with someone else?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ8,Give an example of how you were able to motivate employees or co-workers.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ9,Have you handled a difficult situation? How?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ10,How to Answer Behavioral Interview Questions With the STAR Method?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ11,S stands for Situation:Describe the situation in which the situation happened.T stands for Task:Describe the task you were given to solve the issue at hand.A stands for Action:Describe the action you took to achieve the aforementioned task.R stands for ResultsDiscuss the result of your actions in as much detail as possible. How did your actions help the company or organization run more smoothly?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ12,Describe a project or situation that best illustrates your analytical skills. What did you do?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ13,"Describe a time when you had to analyze data and make a recommendation. What kind of thought process did you engage in? Was the suggestion accepted? If not, why not?",Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ14,Describe a time when you had to solve a difficult problem. What exactly did you do? What was the end result? What would you have done differently?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ15,How do you research a problem before making a decision? Why?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ16,When was the last time you had to deal with an angry customer? What exactly did you do? How did things turn out?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ17,"If you have inherited a customer, tell me about that experience. What steps did you take to establish rapport with them? What did you do to gain their trust?",Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ18,How have you managed a previous situation in which your client changed the brief or “moved the goalposts”?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ19,Describe a time when you went above and beyond to ensure a customer received the best possible service from you and the organization. What was their response?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ20,When was the last time you went out on a limb to defend a customer? What occurred?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ21,Tell me about a recent successful speech or presentation you gave.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ22,When was the last time you had to give a presentation to a group of people with little or no preparation? What challenges did you face? How did you deal with them?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ23,Have you ever had to “sell” a concept to colleagues? How did you manage it?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ24,"Tell me about a time when you were able to effectively communicate with another person, even if that person did not like you (or vice versa).",Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ25,Have you ever encountered any hurdles or difficulties in communicating your ideas to a manager?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ26,Tell me about a time when you had to use your written communication skills to convey an important message.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ27,How do you clear a behavioral interview?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ28,How do you pass behavioral interview questions?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ29,What things you should avoid in a behavioural interview?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ30,Why are behavioural interview questions important?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ31,How to ace behavioral interview questions?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ32,S stands for Situation. Describe the situation in which the situation happened.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ33,T stands for Task. Describe the task you were given to solve the issue at hand.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ34,A stands for Action. Describe the action you took to achieve the aforementioned task.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ35,R stands for Results. Discuss the result of your actions in as much detail as possible. How did your actions help the company or organization run more smoothly?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ36,What type of question is asked during a behavioral interview?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ37,Can you tell me about a time you faced difficulty during project execution and you still successfully executed it?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ38,How do you handle animosity between your teammates? How do you resolve internal conflicts?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ39,What kind of Experience do you want to share?,Behavioral,General,N/A,GeeksforGeeks,General

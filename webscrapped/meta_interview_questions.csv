@@ -1,0 +1,26 @@
+Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
+#HMM1,Converting Decimal Number lying between 1 to 3999 to Roman Numerals,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM2,Find all triplets with zero sum,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM3,Largest subset whose all elements are Fibonacci numbers,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM4,Calculate maximum value using ‘+’ or ‘*’ sign between two numbers in a string,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM5,Convert Ternary Expression to a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM6,Converting Roman Numerals to Decimal lying between 1 to 3999,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM7,Count all distinct pairs with difference equal to k,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM8,Decode a string recursively encoded as count followed by substring,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM9,Find if string is K-Palindrome or not | Set 2,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM10,Find Minimum Depth of a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM11,Find subarray with given sum | Set 1 (Nonnegative Numbers),Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM12,"Given two unsorted arrays, find all pairs whose sum is x",Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM13,Greedy Algorithms | Set 1 (Activity Selection Problem),Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM14,Look-and-Say Sequence,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM15,Smallest subarray with sum greater than a given value,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM16,Program to add two binary strings,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM17,Rearrange a string in sorted order followed by the integer sum,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM18,Boggle | Set 2 (Using Trie),Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM19,Count Possible Decodings of a given Digit Sequence,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM20,Inplace rotate square matrix by 90 degrees | Set 1,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM21,Largest Rectangular Area in a Histogram | Set 2,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM22,Largest sum subarray with at-least k numbers,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM23,Multiply Large Numbers represented as Strings,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM24,Median in a stream of integers (running integers),Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM25,Find m-th smallest value in k sorted arrays,Technical,DSA,N/A,GeeksforGeeks,Meta

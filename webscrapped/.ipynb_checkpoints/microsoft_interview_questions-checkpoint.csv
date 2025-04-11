@@ -1,0 +1,23 @@
+Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
+#HMMIC1,Check if a Binary Tree is BST or not,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC2,"Remove duplicates from a string, do it in-place",Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC3,Given a rotated array which is sorted search for an element in it,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC4,write a function that adds the numbers and store the result in a third list.,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC5,here,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC6,Print last 10 lines of a big file or big string,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC7,Clone a linked list with next and arbitrary (or random) pointer,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC8,Connect nodes at same level,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC9,Least common ancestor of a binary tree,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC10,Run length encoding,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC11,Detect cycle in a linked list,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC12,Given a sorted array of size n. Each element in array is unique and lies from 1 to n+1. Find the missing element,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC13,Check if a binary tree is balanced,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC14,Validate a given IP address,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC15,Two of the nodes of a BST are swapped. Correct the BST,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC16,Draw a circle without floating point arithmetic,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC17,Microsoft’s most frequently asked interview questions | Set 2,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC18,Microsoft Interview Preparation,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC19,Microsoft Interview Experiences,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC20,Microsoft Practice Questions,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC21,Top topics for Interview Preparation,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC22,Recent Microsoft Interview Experiences,Technical,DSA,N/A,GeeksforGeeks,Microsoft

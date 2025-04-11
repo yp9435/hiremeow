@@ -1,0 +1,382 @@
+Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
+#HMA2,K largest elements from a big file or array,Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA3,"Find a triplet a, b, c such that a2 = b2 + c2",Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA4,tree traversal questions,Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA5,Convert a Binary tree to DLL,Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA6,Lowest Common ancestor in a Binary Search Tree and Binary Tree.,Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA7,"Implement a stack with push(), pop() and min() in O(1) time.",Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA8,Reverse a linked list in groups of size k,Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA9,"Given two numbers represented by two linked lists, write a function that returns sum list",Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA10,9. Rotate a matrix by 90 degree.,Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA11,Stock span problem,Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA12,Next greater element,Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMA13,"system design questions,",Technical,DSA,N/A,GeeksforGeeks,Amazon
+#HMAP1,Cyclically rotate an array by one,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP2,Program for array rotation,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP3,Adding one to a number represented an an array of digits,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP4,Find the missing and repeating number,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP5,Product of Array except itself,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP6,Find the Number Occurring Odd Number of Times,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP7,Round the given number to nearest multiple of 10,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP8,Elements in the Range,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP9,Find zeroes to be flipped so that number of consecutive 1’s is maximized,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP10,Equilibrium index of an array,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP11,Top k numbers in a stream,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP12,Rotate a 2D array without using extra space,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP13,Program to validate an IP address,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP14,Implement Atoi,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP15,Program to Check if a Given String is Palindrome,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP16,Check whether two strings are anagram of each other,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP17,Write a program to print all permutations of a given string,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP18,Remove duplicates from a given string,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP19,Find Excel column name from a given column number,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP20,Length of the longest valid substring,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP21,Converting Decimal Number lying between 1 to 3999 to Roman Numerals,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP22,"Given a sequence of words, print all anagrams together",Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP23,Longest prefix which is also suffix,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP24,Find if an array of strings can be chained to form a circle,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP25,Delete a Node in Single Linked List,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP26,Reverse a linked list,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP27,Reverse a Linked List in groups of given size,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP28,Check if a linked list is Circular Linked List,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP29,Multiply two numbers represented by Linked Lists,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP30,Reverse a sublist of linked list,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP31,Implement a stack using singly linked list,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP32,Convert a given Binary Tree to Doubly Linked List,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP33,Length of longest palindrome in linked list,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP34,Find length of loop in linked list,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP35,Clone a linked list with next and random pointer,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP36,Flatten a binary tree into linked list,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP37,Implement Stack using Queues,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP38,Design a stack that supports getMin() in O(1) time and O(1) extra space,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP39,Length of the longest valid substring,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP40,Reversing a Queue,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP41,Find the first circular tour that visits all petrol pumps,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP42,Clone a stack without extra space,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP43,Minimum time required to rot all oranges,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP44,Maximum size rectangle binary sub-matrix with all 1s,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP45,The Celebrity Problem,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP46,The Stock Span Problem,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP47,Find last index of a character in a string,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP48,Number of pairs in an array with the sum greater than 0,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP49,Majority Element,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP50,Find a peak element,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP51,Find the transition point in a binary array,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP52,Find common elements in three sorted arrays,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP53,Leaders in an array,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP54,Find a pair with the given difference,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP55,Find bitonic point in given bitonic sequence,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP56,Capacity To Ship Packages Within D Days,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP57,QuickSort,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP58,Sort in a specific order,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP59,K’th Smallest/Largest Element in Unsorted Array,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP60,"Sort an array of 0s, 1s and 2s",Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP61,Count Inversions in an array,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP62,Find a triplet that sums to a given value,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP63,Find subarray with given sum,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP64,Chocolate Distribution Problem,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP65,The minimum sum of two numbers formed from digits of an array,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP66,Largest even number that can be formed by any number of swaps,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP67,Count pairs with a given sum,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP68,The longest sub-array having sum k,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP69,Zero Sum Subarrays,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP70,Union of Two Linked Lists,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP71,Check if an array can be divided into pairs whose sum is divisible by k,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP72,Longest Consecutive Subsequence,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP73,Triplet Sum in Array,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP74,Largest subarray of 0’s and 1’s,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP75,Merge K sorted Linked lists,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP76,Operations on Binary Min Heap,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP77,Tower Of Hanoi,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP78,Recursively remove all adjacent duplicates,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP79,Backtracking to find all subsets,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP80,Special Keyboard,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP81,Rat in a Maze Problem,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP82,Generate IP Addresses,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP83,Lucky Numbers,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP84,m Coloring Problem,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP85,Partition array to K subsets,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP86,Diagonal Sum of a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP87,Generate n-bit Gray Codes,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP88,Sorted Array to Balanced BST,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP89,Level Order Binary Tree Traversal,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP90,Reverse Level Order Traversal,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP91,Print level order traversal line by line,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP92,Left View of Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP93,Boundary Traversal of binary tree,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP94,Vertical Traversal of Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP95,Check if two Nodes are Cousins,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP96,Binary Tree to DLL,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP97,Serialize and Deserialize a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP98,Convert a Binary Tree to a Circular Doubly Link List,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP99,A program to check if a binary tree is BST or not,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP100,Find the node with minimum value in a Binary Search Tree,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP101,Lowest Common Ancestor in a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP102,Lowest Common Ancestor in a Binary Search Tree.,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP103,Maximum difference between node and its ancestor in Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP104,Bipartite Graph,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP105,Detect cycle in a directed graph,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP106,Detect cycle in an undirected graph,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP107,Topological sort,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP108,Minimum Spanning Tree,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP109,Minimum steps to reach target by a Knight,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP110,Strongly Connected Components (Kosaraju’s Algo),Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP111,Snake and Ladder Problem,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP112,Word Boggle,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP113,Find whether it is possible to finish all tasks or not from given dependencies,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP114,Bridges in a graph,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP115,Flood Fill Algorithm,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP116,Find if a string is interleaved of two other strings,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP117,Max rectangle,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP118,Palindrome Partitioning,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP119,Number of Unique BST with a given key,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP120,Boolean Parenthesization Problem,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP121,Number of Coins,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP122,Egg Dropping Puzzle,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP123,Word Break,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP124,Wildcard Pattern Matching,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP125,Total Decoding Messages,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP126,Jump Game,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP127,Longest Increasing Subsequence,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP128,Painting Fence Algorithm,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP129,Count All Palindrome Sub-Strings in a String,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP130,Count ways to reach the n’th stair,Technical,DSA,N/A,GeeksforGeeks,Apple
+#HMAP131,Burst Balloon to maximize coins,Technical,DSA,N/A,GeeksforGeeks,Apple
+#BHQ1,How do you handle a challenge? Tell me about a situation where you faced a challenge.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ2,"Can you work effectively under pressure? If yes, how?",Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ3,When was the last time you made a mistake and how did you handle it?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ4,How do you set goals? Give an example.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ5,Tell me a decision that other team members or colleagues didn’t like. How did you implement it?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ6,Are you someone who works in a team or like solo working? Give an example of how you worked on a team.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ7,What do you do when your opinions collide with someone else?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ8,Give an example of how you were able to motivate employees or co-workers.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ9,Have you handled a difficult situation? How?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ10,How to Answer Behavioral Interview Questions With the STAR Method?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ11,S stands for Situation:Describe the situation in which the situation happened.T stands for Task:Describe the task you were given to solve the issue at hand.A stands for Action:Describe the action you took to achieve the aforementioned task.R stands for ResultsDiscuss the result of your actions in as much detail as possible. How did your actions help the company or organization run more smoothly?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ12,Describe a project or situation that best illustrates your analytical skills. What did you do?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ13,"Describe a time when you had to analyze data and make a recommendation. What kind of thought process did you engage in? Was the suggestion accepted? If not, why not?",Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ14,Describe a time when you had to solve a difficult problem. What exactly did you do? What was the end result? What would you have done differently?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ15,How do you research a problem before making a decision? Why?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ16,When was the last time you had to deal with an angry customer? What exactly did you do? How did things turn out?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ17,"If you have inherited a customer, tell me about that experience. What steps did you take to establish rapport with them? What did you do to gain their trust?",Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ18,How have you managed a previous situation in which your client changed the brief or “moved the goalposts”?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ19,Describe a time when you went above and beyond to ensure a customer received the best possible service from you and the organization. What was their response?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ20,When was the last time you went out on a limb to defend a customer? What occurred?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ21,Tell me about a recent successful speech or presentation you gave.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ22,When was the last time you had to give a presentation to a group of people with little or no preparation? What challenges did you face? How did you deal with them?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ23,Have you ever had to “sell” a concept to colleagues? How did you manage it?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ24,"Tell me about a time when you were able to effectively communicate with another person, even if that person did not like you (or vice versa).",Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ25,Have you ever encountered any hurdles or difficulties in communicating your ideas to a manager?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ26,Tell me about a time when you had to use your written communication skills to convey an important message.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ27,How do you clear a behavioral interview?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ28,How do you pass behavioral interview questions?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ29,What things you should avoid in a behavioural interview?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ30,Why are behavioural interview questions important?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ31,How to ace behavioral interview questions?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ32,S stands for Situation. Describe the situation in which the situation happened.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ33,T stands for Task. Describe the task you were given to solve the issue at hand.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ34,A stands for Action. Describe the action you took to achieve the aforementioned task.,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ35,R stands for Results. Discuss the result of your actions in as much detail as possible. How did your actions help the company or organization run more smoothly?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ36,What type of question is asked during a behavioral interview?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ37,Can you tell me about a time you faced difficulty during project execution and you still successfully executed it?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ38,How do you handle animosity between your teammates? How do you resolve internal conflicts?,Behavioral,General,N/A,GeeksforGeeks,General
+#BHQ39,What kind of Experience do you want to share?,Behavioral,General,N/A,GeeksforGeeks,General
+#HMG20,Find all triplets with zero sum,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG21,Generate all binary strings from given pattern,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG22,"Count of strings that can be formed using a, b and c under given constraints",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG23,Find largest word in dictionary by deleting some characters of given string,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG24,Find subarray with given sum | Set 1 (Nonnegative Numbers),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG25,Find the longest substring with k unique characters in a given string,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG26,Find the two non-repeating elements in an array of repeating elements,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG27,Flood fill Algorithm – how to implement fill() in paint?,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG28,Meta Strings (Check if two strings can become same after a swap in one string),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG29,Print all Jumping Numbers smaller than or equal to a given value,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG30,Sum of all the numbers that are formed from root to leaf paths,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG31,The Celebrity Problem,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG32,Unbounded Knapsack (Repetition of items allowed),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG33,Backtracking | Set 7 (Sudoku),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG34,Boggle | Set 2 (Using Trie),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG35,Check if a Binary Tree contains duplicate subtrees of size 2 or more,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG36,Dynamic Programming | Set 33 (Find if a string is interleaved of two other stri,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG37,Connect nodes at same level,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG38,Count BST nodes that lie in a given range,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG39,Dynamic Programming | Set 11 (Egg Dropping Puzzle),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG40,Dynamic Programming | Set 28 (Minimum insertions to form a palindrome),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG41,Dynamic Programming | Set 31 (Optimal Strategy for a Game),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG42,Dynamic Programming | Set 32 (Word Break Problem),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG43,Find four elements that sum to a given value | Set 2 ( O(n^2Logn) Solution),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG44,"Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG45,How to print maximum number of A’s using given four keys,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG46,Inplace rotate square matrix by 90 degrees | Set 1,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG47,Maximum absolute difference between sum of two contiguous sub-arrays,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG48,Merge two BSTs with limited extra space,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG49,Merge Overlapping Intervals,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG50,Modular Exponentiation (Power in Modular Arithmetic),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG51,Paper Cut into Minimum Number of Squares | Set 2,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG52,Sum of bit differences among all pairs,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG53,Allocate minimum number of pages,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG54,"Given an array arr[], find the maximum j – i such that arr[j] > arr[i]",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG55,"Given a sorted dictionary of an alien language, find order of characters",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG56,Hungarian Algorithm for Assignment Problem | Set 1 (Introduction),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG57,Implement LRU Cache,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG58,Length of the longest valid substring,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG59,Median in a stream of integers (running integers),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG60,Sum of bit differences among all pairs,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG61,Travelling Salesman Problem | Set 1 (Naive and Dynamic Programming),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG62,Word Break Problem using Backtracking,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMM1,Converting Decimal Number lying between 1 to 3999 to Roman Numerals,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM2,Find all triplets with zero sum,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM3,Largest subset whose all elements are Fibonacci numbers,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM4,Calculate maximum value using ‘+’ or ‘*’ sign between two numbers in a string,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM5,Convert Ternary Expression to a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM6,Converting Roman Numerals to Decimal lying between 1 to 3999,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM7,Count all distinct pairs with difference equal to k,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM8,Decode a string recursively encoded as count followed by substring,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM9,Find if string is K-Palindrome or not | Set 2,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM10,Find Minimum Depth of a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM11,Find subarray with given sum | Set 1 (Nonnegative Numbers),Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM12,"Given two unsorted arrays, find all pairs whose sum is x",Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM13,Greedy Algorithms | Set 1 (Activity Selection Problem),Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM14,Look-and-Say Sequence,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM15,Smallest subarray with sum greater than a given value,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM16,Program to add two binary strings,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM17,Rearrange a string in sorted order followed by the integer sum,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM18,Boggle | Set 2 (Using Trie),Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM19,Count Possible Decodings of a given Digit Sequence,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM20,Inplace rotate square matrix by 90 degrees | Set 1,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM21,Largest Rectangular Area in a Histogram | Set 2,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM22,Largest sum subarray with at-least k numbers,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM23,Multiply Large Numbers represented as Strings,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM24,Median in a stream of integers (running integers),Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMM25,Find m-th smallest value in k sorted arrays,Technical,DSA,N/A,GeeksforGeeks,Meta
+#HMMIC1,Check if a Binary Tree is BST or not,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC2,"Remove duplicates from a string, do it in-place",Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC3,Given a rotated array which is sorted search for an element in it,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC4,write a function that adds the numbers and store the result in a third list.,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC5,here,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC6,Print last 10 lines of a big file or big string,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC7,Clone a linked list with next and arbitrary (or random) pointer,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC8,Connect nodes at same level,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC9,Least common ancestor of a binary tree,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC10,Run length encoding,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC11,Detect cycle in a linked list,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC12,Given a sorted array of size n. Each element in array is unique and lies from 1 to n+1. Find the missing element,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC13,Check if a binary tree is balanced,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC14,Validate a given IP address,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC15,Two of the nodes of a BST are swapped. Correct the BST,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMMIC16,Draw a circle without floating point arithmetic,Technical,DSA,N/A,GeeksforGeeks,Microsoft
+#HMN1,Find a triplet that sums to a given value,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN2,Boolean Matrix,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN3,Maximum subset XOR,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN4,Number of subsets with product less than k,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN5,"Given a number, find the next smallest palindrome",Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN6,Arrange given numbers to form the biggest number,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN7,Nuts & Bolts Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN8,Maximize elements using another array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN9,Capacity To Ship Packages Within D Days,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN10,Longest Arithmetic Progression,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN11,Construct a List using the given Q XOR queries,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN12,Find the row with the maximum number of 1s,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN13,Find top k (or most frequent) numbers in a stream,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN14,Find duplicates in O(n) time and O(1) extra space,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN15,"Given a string, print all possible palindromic partitions",Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN16,Find all distinct palindromic sub-strings of a given string,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN17,Longest substring whose characters can be rearranged to form a Palindrome,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN18,How to design a tiny URL or URL shortener?,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN19,Longest repeating and non-overlapping substring,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN20,Length of the longest valid substring,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN21,Find a pair with the given difference,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN22,Find the Largest number with a given number of digits and the sum of digits,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN23,Find Excel column name from a given column number,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN24,Count words that appear exactly two times in an array of words,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN25,Convert a given Binary Tree to a Doubly Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN26,Clone a linked list with the next and random pointer,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN27,Rearrange a given linked list in-place,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN28,Flatten a binary tree into a linked list,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN29,Reverse a sublist of the linked list,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN30,Extract Leaves of a Binary Tree in a Doubly Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN31,QuickSort on Singly Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN32,Insertion Sort for Singly Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN33,Remove all occurrences of duplicates from a sorted Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN34,Detect and Remove Loop in a Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN35,Intersection Point in Y-Shaped Linked Lists,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN36,Find a maximum or minimum for every window size in a given array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN37,Length of the longest valid substring,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN38,Celebrity Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN39,Next Greater Element,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN40,Implement Stack using Queues,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN41,Stock Span Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN42,Maximum size rectangle binary sub-matrix with all 1s,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN43,Circular tour,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN44,Implement two stacks in an array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN45,Sort a stack using recursion,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN46,Allocate a minimum number of pages,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN47,Median of two sorted arrays of different sizes,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN48,painter’s partition problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN49,Minimum Number of Platforms Required for a Railway/Bus Station,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN50,The square root of an integer,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN51,Sort an array according to the order defined by another array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN52,Find the element that appears once,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN53,Find the farthest smaller number on the right side,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN54,Distribute N candies among K people,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN55,Two elements whose sum is closest to zero,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN56,Merge two sorted arrays with O(1) extra space,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN57,Find a triplet that sums to a given value,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN58,Minimum number of swaps required to sort an array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN59,QuickSort,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN60,The floor in a Sorted Array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN61,Chocolate Distribution Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN62,k largest(or smallest) elements in an array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN63,Sort an array according to the order defined by another array,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN64,Overlapping Intervals,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN65,Minimum sprinklers required to be turned on to water the plants,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN66,Find four elements that sum to a given value,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN67,Find the first non-repeating character from a stream of characters,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN68,"Given a sequence of words, print all anagrams together",Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN69,Number of subarrays having a sum exactly equal to k,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN70,Count pairs with a given sum,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN71,Check if two strings are k-anagrams or not,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN72,Second most repeated word in a sequence,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN73,Heap Sort,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN74,Largest subarray with an equal number of 0s and 1s,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN75,Find a triplet in an array whose sum is closest to a given number,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN76,Convert a Binary Tree to a Circular Doubly Link List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN77,Lowest Common Ancestor in a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN78,A program to check if a binary tree is BST or not,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN79,Print level order traversal line by line,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN80,The maximum difference between a node and its ancestor in Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN81,Symmetric Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN82,Inorder to Successor in Binary Search Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN83,Print BST elements in a given range,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN84,Level Order Binary Tree Traversal,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN85,Convert a Binary Tree to a Circular Doubly Link List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN86,Convert a given Binary Tree to a Doubly Linked List,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN87,Burn the binary tree starting from the target node,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN88,AVL Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN89,Distribute candies in a Binary Tree,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN90,Print a Binary Tree in Vertical Order,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN91,Strongly Connected Components (Kosaraju’s Algo),Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN92,Prerequisite Tasks,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN93,Distance from the Source (Bellman-Ford Algorithm),Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN94,Word Boggle – II,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN95,Check whether a given graph is Bipartite or not,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN96,Find the number of islands,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN97,Topological sort,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN98,Boggle (Find all possible words in a board of characters),Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN99,Program to cyclically rotate an array by one,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN100,Flood fill Algorithm – how to implement fill() in paint?,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN101,The shortest path to reach one prime to another by changing a single digit at a time,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN102,Count All Palindrome Sub-Strings in a String,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN103,Count ways to reach the n’th stair,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN104,Burst Balloon to maximize coins,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN105,Maximum size rectangle binary sub-matrix with all 1s,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN106,Maximum Sum Increasing Subsequence,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN107,Count the number of ways to cover a distance,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN108,Word Break Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN109,Knapsack with Duplicate Items,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN110,Coin Change,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN111,Subset Sum Problem,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN112,Longest Increasing Subsequence,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN113,Find if a string is interleaved with two other strings,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN114,Minimum number of jumps to reach the end,Technical,DSA,N/A,GeeksforGeeks,Netflix
+#HMN115,Count Possible Decodings of a given Digit Sequence,Technical,DSA,N/A,GeeksforGeeks,Netflix

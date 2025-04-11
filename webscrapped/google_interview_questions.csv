@@ -1,0 +1,44 @@
+Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
+#HMG20,Find all triplets with zero sum,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG21,Generate all binary strings from given pattern,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG22,"Count of strings that can be formed using a, b and c under given constraints",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG23,Find largest word in dictionary by deleting some characters of given string,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG24,Find subarray with given sum | Set 1 (Nonnegative Numbers),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG25,Find the longest substring with k unique characters in a given string,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG26,Find the two non-repeating elements in an array of repeating elements,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG27,Flood fill Algorithm – how to implement fill() in paint?,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG28,Meta Strings (Check if two strings can become same after a swap in one string),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG29,Print all Jumping Numbers smaller than or equal to a given value,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG30,Sum of all the numbers that are formed from root to leaf paths,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG31,The Celebrity Problem,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG32,Unbounded Knapsack (Repetition of items allowed),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG33,Backtracking | Set 7 (Sudoku),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG34,Boggle | Set 2 (Using Trie),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG35,Check if a Binary Tree contains duplicate subtrees of size 2 or more,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG36,Dynamic Programming | Set 33 (Find if a string is interleaved of two other stri,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG37,Connect nodes at same level,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG38,Count BST nodes that lie in a given range,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG39,Dynamic Programming | Set 11 (Egg Dropping Puzzle),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG40,Dynamic Programming | Set 28 (Minimum insertions to form a palindrome),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG41,Dynamic Programming | Set 31 (Optimal Strategy for a Game),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG42,Dynamic Programming | Set 32 (Word Break Problem),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG43,Find four elements that sum to a given value | Set 2 ( O(n^2Logn) Solution),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG44,"Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG45,How to print maximum number of A’s using given four keys,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG46,Inplace rotate square matrix by 90 degrees | Set 1,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG47,Maximum absolute difference between sum of two contiguous sub-arrays,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG48,Merge two BSTs with limited extra space,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG49,Merge Overlapping Intervals,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG50,Modular Exponentiation (Power in Modular Arithmetic),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG51,Paper Cut into Minimum Number of Squares | Set 2,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG52,Sum of bit differences among all pairs,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG53,Allocate minimum number of pages,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG54,"Given an array arr[], find the maximum j – i such that arr[j] > arr[i]",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG55,"Given a sorted dictionary of an alien language, find order of characters",Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG56,Hungarian Algorithm for Assignment Problem | Set 1 (Introduction),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG57,Implement LRU Cache,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG58,Length of the longest valid substring,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG59,Median in a stream of integers (running integers),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG60,Sum of bit differences among all pairs,Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG61,Travelling Salesman Problem | Set 1 (Naive and Dynamic Programming),Technical,DSA,N/A,GeeksforGeeks,Google
+#HMG62,Word Break Problem using Backtracking,Technical,DSA,N/A,GeeksforGeeks,Google
