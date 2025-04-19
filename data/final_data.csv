@@ -425,7 +425,6 @@ Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
 #HM43,What is Kubernetes and how does it relate to Docker?,Technical,DevOps,Hard,GeeksforGeeks,Amazon
 #HM44,Explain the concept of CI/CD pipeline.,Technical,DevOps,Medium,GeeksforGeeks,Amazon
 #HM45,What is infrastructure as code and why is it important?,Technical,DevOps,Medium,GeeksforGeeks,Amazon
-#HM46,What is the difference between var, let, and const in JavaScript?,Technical,JavaScript,Easy,GeeksforGeeks,Microsoft
 #HM47,Explain the concept of closures in JavaScript.,Technical,JavaScript,Medium,GeeksforGeeks,Microsoft
 #HM48,What is the event bubbling and event capturing in JavaScript?,Technical,JavaScript,Medium,GeeksforGeeks,Microsoft
 #HM49,Explain the concept of promises in JavaScript.,Technical,JavaScript,Medium,GeeksforGeeks,Microsoft
