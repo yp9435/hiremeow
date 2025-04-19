@@ -121,7 +121,7 @@ st.markdown("""
 @st.cache_data
 def load_question_bank():
     try:
-        return pd.read_csv('data/question_bank.csv')
+        return pd.read_csv('data/final_data.csv')
     except:
         st.error("Question bank not found. Please make sure 'data/question_bank.csv' exists.")
         return pd.DataFrame(columns=['Dataset ID', 'Question', 'Category', 'Sub-Category', 'Difficulty', 'Source', 'Company'])
