@@ -44,6 +44,7 @@ except LookupError:
     nltk.download('stopwords')
     nltk.download('averaged_perceptron_tagger')
     nltk.download('wordnet')
+    nltk.download('punkt', force=True)  # <- Force proper download
 
 # Initialize sentiment analysis pipeline
 try:
@@ -92,7 +93,7 @@ SOFT_SKILLS = [
 def preprocess_text(text: str, remove_stopwords: bool = True) -> List[str]:
     """
     Apply NLP preprocessing techniques to the input text:
-    - Tokenization
+    - Tokenization using spaCy
     - Normalization (lowercasing, punctuation removal)
     - Stopword Removal (optional)
     - Lemmatization
@@ -104,25 +105,19 @@ def preprocess_text(text: str, remove_stopwords: bool = True) -> List[str]:
     Returns:
         List of preprocessed tokens
     """
-    if not text:
+    if not text or not spacy_available:
         return []
     
-    # Tokenization
-    tokens = word_tokenize(text.lower())
+    # Tokenization and preprocessing using spaCy
+    doc = nlp(text.lower())
     
-    # Normalization - remove punctuation and numbers
-    tokens = [token for token in tokens if token not in string.punctuation and not token.isdigit()]
+    # Remove punctuation, numbers, and optionally stopwords
+    tokens = [
+        token.lemma_ for token in doc
+        if not token.is_punct and not token.is_digit and (not remove_stopwords or token.text not in stopwords.words('english'))
+    ]
     
-    # Stopword Removal (optional)
-    if remove_stopwords:
-        stop_words = set(stopwords.words('english'))
-        tokens = [token for token in tokens if token not in stop_words]
-    
-    # Lemmatization
-    lemmatizer = WordNetLemmatizer()
-    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in tokens]
-    
-    return lemmatized_tokens
+    return tokens
 
 # Extract entities from job description using NER
 def extract_job_entities(text: str) -> Dict[str, List[str]]:
