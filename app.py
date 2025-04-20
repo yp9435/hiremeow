@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import re
+import os
 from wordcloud import WordCloud
 import io
 import base64
@@ -40,60 +40,62 @@ def set_background(image_file):
     st.markdown(css, unsafe_allow_html=True)
 
 # Set your background
-set_background("cute_background.png")
+set_background("catbg.jpg")
 
 # Custom CSS for styling
 st.markdown("""
 <style>
     /* General body styling */
     body {
-        background-color: #FFF8DC;
-        color: #5a4a3f;
-        font-family: 'Comic Sans MS', cursive, sans-serif;
+        background-color: #F8F0FF; /* Light purple background */
+        color: #4B0082; /* Dark purple text */
+        font-family: 'Arial', sans-serif; /* Clean and modern font */
     }
 
     /* Main header */
     #title {
         text-align: center;
-        color: #FF69B4;
+        color: #6A0DAD; /* Vibrant purple */
         font-size: 48px;
         font-weight: bold;
-        text-shadow: 2px 2px #FFD700;
+        margin-bottom: 20px;
     }
 
     /* Subheader */
     #subheader {
         text-align: center;
-        color: #FFB6C1;
+        color: #8A2BE2; /* Medium purple */
         font-size: 18px;
         margin-bottom: 40px;
     }
 
     /* Section headers */
     .section-header {
-        font-size: 1.5rem;
-        color: #FF69B4;
+        font-size: 1.8rem;
+        color: #6A0DAD; /* Vibrant purple */
         margin-top: 1rem;
         margin-bottom: 0.5rem;
-        text-shadow: 1px 1px #FFD700;
+        font-weight: bold;
+        border-bottom: 2px solid #D8BFD8; /* Light purple border */
+        padding-bottom: 5px;
     }
 
     /* Question cards */
     .question-card {
-        background-color: #FFF0F5;
+        background-color: #E6E6FA; /* Lavender background */
         padding: 1rem;
-        border-radius: 1rem;
+        border-radius: 10px;
         margin-bottom: 1rem;
-        border-left: 6px solid #FF69B4;
-        box-shadow: 2px 2px 5px #FFD700;
+        border-left: 6px solid #6A0DAD; /* Vibrant purple border */
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     }
 
     /* Skill tags */
     .skill-tag {
-        background-color: #FFD700;
-        color: #FF69B4;
+        background-color: #D8BFD8; /* Light purple */
+        color: #4B0082; /* Dark purple */
         padding: 0.3rem 0.6rem;
-        border-radius: 1rem;
+        border-radius: 15px;
         margin-right: 0.3rem;
         margin-bottom: 0.3rem;
         display: inline-block;
@@ -103,12 +105,12 @@ st.markdown("""
 
     /* Entity cards */
     .entity-card {
-        background-color: #FFF0F5;
+        background-color: #E6E6FA; /* Lavender background */
         padding: 0.8rem;
-        border-radius: 1rem;
+        border-radius: 10px;
         margin-bottom: 0.5rem;
-        border-left: 6px solid #FF69B4;
-        box-shadow: 2px 2px 5px #FFD700;
+        border-left: 6px solid #6A0DAD; /* Vibrant purple border */
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     }
 
     /* Footer */
@@ -116,52 +118,52 @@ st.markdown("""
         text-align: center;
         margin-top: 2rem;
         font-size: 0.8rem;
-        color: #FF69B4;
+        color: #6A0DAD; /* Vibrant purple */
     }
 
     /* Relevance badge */
     .relevance-badge {
         float: right;
-        background-color: #FF69B4;
+        background-color: #6A0DAD; /* Vibrant purple */
         color: white;
         padding: 0.2rem 0.4rem;
-        border-radius: 0.3rem;
+        border-radius: 5px;
         font-size: 0.8rem;
         font-weight: bold;
     }
 
     /* Requirement cards */
     .requirement-card {
-        background-color: #FFF0F5;
+        background-color: #E6E6FA; /* Lavender background */
         padding: 1rem;
-        border-radius: 1rem;
+        border-radius: 10px;
         margin-bottom: 1rem;
-        border-left: 6px solid #FF69B4;
-        box-shadow: 2px 2px 5px #FFD700;
+        border-left: 6px solid #6A0DAD; /* Vibrant purple border */
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     }
 
     /* Requirement title */
     .requirement-title {
         font-weight: bold;
         font-size: 1.2rem;
-        color: #FF69B4;
+        color: #6A0DAD; /* Vibrant purple */
     }
 
     /* Entity labels */
     .entity-label {
         font-weight: bold;
-        color: #FF69B4;
+        color: #6A0DAD; /* Vibrant purple */
     }
 
     /* Entity values */
     .entity-value {
-        background-color: #FFD700;
+        background-color: #D8BFD8; /* Light purple */
         padding: 0.2rem 0.4rem;
-        border-radius: 0.3rem;
+        border-radius: 5px;
         margin-right: 0.3rem;
         display: inline-block;
         font-weight: bold;
-        color: #5a4a3f;
+        color: #4B0082; /* Dark purple */
     }
 </style>
 """, unsafe_allow_html=True)
@@ -170,11 +172,15 @@ st.markdown("""
 @st.cache_data
 def load_question_bank():
     try:
-        return pd.read_csv('data/final_data.csv')
-    except:
-        st.error("Question bank not found. Please make sure 'data/question_bank.csv' exists.")
+        file_path = 'question_bank.csv' 
+        st.write(f"Looking for file at: {file_path}")
+        if not os.path.exists(file_path):
+            st.error(f"File not found at: {file_path}")
+        return pd.read_csv(file_path)
+    except Exception as e:
+        st.error(f"Error loading question bank: {e}")
         return pd.DataFrame(columns=['Dataset ID', 'Question', 'Category', 'Sub-Category', 'Difficulty', 'Source', 'Company'])
-
+    
 # Main application
 def main():
     # Title and subtitle

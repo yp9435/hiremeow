@@ -44,7 +44,6 @@ Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
 43,What is Kubernetes and how does it relate to Docker?,Technical,DevOps,Hard,GeeksforGeeks,Amazon
 44,Explain the concept of CI/CD pipeline.,Technical,DevOps,Medium,GeeksforGeeks,Amazon
 45,What is infrastructure as code and why is it important?,Technical,DevOps,Medium,GeeksforGeeks,Amazon
-46,What is the difference between var, let, and const in JavaScript?,Technical,JavaScript,Easy,GeeksforGeeks,Microsoft
 47,Explain the concept of closures in JavaScript.,Technical,JavaScript,Medium,GeeksforGeeks,Microsoft
 48,What is the event bubbling and event capturing in JavaScript?,Technical,JavaScript,Medium,GeeksforGeeks,Microsoft
 49,Explain the concept of promises in JavaScript.,Technical,JavaScript,Medium,GeeksforGeeks,Microsoft
@@ -74,10 +73,8 @@ Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
 73,What are arrow functions in JavaScript and how do they differ from regular functions?,Technical,JavaScript,Easy,Interview Prep,Netflix
 74,Explain the concept of event delegation in JavaScript.,Technical,JavaScript,Medium,Interview Prep,Shopify
 75,What is the JavaScript event loop and how does it work?,Technical,JavaScript,Hard,Interview Prep,Stripe
-76,Explain the difference between call, apply, and bind methods in JavaScript.,Technical,JavaScript,Medium,Interview Prep,LinkedIn
 77,What are JavaScript modules and how do you use them?,Technical,JavaScript,Medium,Interview Prep,Slack
 78,Explain async/await in JavaScript and how it differs from Promises.,Technical,JavaScript,Medium,Interview Prep,Uber
-79,What is the difference between localStorage, sessionStorage, and cookies in JavaScript?,Technical,JavaScript,Easy,Interview Prep,Twitter
 80,How does the 'this' keyword work in JavaScript?,Technical,JavaScript,Medium,Interview Prep,Facebook
 81,What is the difference between SQL and NoSQL databases? When would you use one over the other?,Technical,Database,Medium,Interview Prep,MongoDB
 82,Explain ACID properties in database systems.,Technical,Database,Medium,Interview Prep,Oracle
@@ -127,7 +124,6 @@ Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
 126,Explain the concept of web accessibility and ARIA roles.,Technical,Web Development,Medium,Interview Prep,W3C
 127,What is webpack and how does it improve web development workflow?,Technical,Web Development,Medium,Interview Prep,Shopify
 128,Explain the concept of Cross-Site Scripting (XSS) and how to prevent it.,Technical,Web Development,Medium,Interview Prep,OWASP
-129,What is the difference between localStorage, sessionStorage, and cookies?,Technical,Web Development,Easy,Interview Prep,Mozilla
 130,Explain the concept of web components and shadow DOM.,Technical,Web Development,Hard,Interview Prep,Google
 131,What is the difference between AWS EC2 and AWS Lambda?,Technical,Cloud,Medium,Interview Prep,AWS
 132,Explain the concept of Infrastructure as Code (IaC) and its benefits.,Technical,Cloud,Medium,Interview Prep,HashiCorp
@@ -137,7 +133,6 @@ Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
 136,Explain the concept of cloud-native applications and microservices.,Technical,Cloud,Medium,Interview Prep,CNCF
 137,What is a virtual private cloud (VPC) and how does it enhance security?,Technical,Cloud,Medium,Interview Prep,AWS
 138,Explain the concept of auto-scaling in cloud environments.,Technical,Cloud,Medium,Interview Prep,Google
-139,What is the difference between IaaS, PaaS, and SaaS cloud service models?,Technical,Cloud,Easy,Interview Prep,Microsoft
 140,Explain the concept of multi-cloud strategy and its benefits.,Technical,Cloud,Medium,Interview Prep,IBM
 141,What is the difference between TensorFlow and PyTorch?,Technical,Machine Learning,Medium,Interview Prep,Google
 142,Explain the concept of neural networks and deep learning.,Technical,Machine Learning,Hard,Interview Prep,OpenAI
@@ -169,7 +164,6 @@ Dataset ID,Question,Category,Sub-Category,Difficulty,Source,Company
 168,Explain the concept of two-factor authentication and its benefits.,Technical,Security,Easy,Interview Prep,Google
 169,What is the principle of least privilege in security?,Technical,Security,Medium,Interview Prep,Microsoft
 170,Explain the concept of HTTPS and TLS/SSL certificates.,Technical,Security,Medium,Interview Prep,DigiCert
-171,What is the difference between unit testing, integration testing, and end-to-end testing?,Technical,Testing,Medium,Interview Prep,Jest
 172,Explain the concept of test-driven development (TDD) and its benefits.,Technical,Testing,Medium,Interview Prep,Agile Alliance
 173,What is mocking in unit tests and when would you use it?,Technical,Testing,Medium,Interview Prep,Mockito
 174,Explain the concept of code coverage and its limitations.,Technical,Testing,Medium,Interview Prep,SonarQube
