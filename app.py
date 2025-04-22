@@ -224,10 +224,7 @@ def main():
                     
                     if tech_questions:
                         for i, q_data in enumerate(tech_questions, 1):
-                            # Display question with relevance score
-                            relevance = q_data.get("relevance", 0) * 100
-                            relevance_badge = f"<span class='relevance-badge'>Relevance: {relevance:.0f}%</span>"
-                            
+                            # Display question with relevance score    
                             question_text = q_data.get("question", "")
                             
                             # Display matching skills if available
@@ -241,7 +238,7 @@ def main():
                                 skills_html += "</div>"
                             
                             st.markdown(
-                                f"<div class='question-card'>{relevance_badge}<b>Q{i}:</b> {question_text}{skills_html}</div>", 
+                                f"<div class='question-card'><b>Q{i}:</b> {question_text}{skills_html}</div>", 
                                 unsafe_allow_html=True
                             )
                     else:
@@ -256,17 +253,14 @@ def main():
                     if behavioral_questions:
                         for i, q_data in enumerate(behavioral_questions, 1):
                             # Display question with theme and relevance
-                            theme = q_data.get("theme", "general")
-                            relevance = q_data.get("relevance", 0) * 100
-                            relevance_badge = f"<span class='relevance-badge'>Relevance: {relevance:.0f}%</span>"
-                            
+                            theme = q_data.get("theme", "general")                            
                             question_text = q_data.get("question", "")
                             
                             # Add theme tag
                             theme_html = f"<div style='margin-top: 0.5rem;'><span class='skill-tag'>{theme}</span></div>"
                             
                             st.markdown(
-                                f"<div class='question-card'>{relevance_badge}<b>Q{i}:</b> {question_text}{theme_html}</div>", 
+                                f"<div class='question-card'><b>Q{i}:</b> {question_text}{theme_html}</div>", 
                                 unsafe_allow_html=True
                             )
                     else:
